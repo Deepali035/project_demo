@@ -1,2 +1,2 @@
-# project_demo
+# machine learning project
 
